@@ -16,7 +16,7 @@ void enqueue(){
     }
     else{
         q[++rear]=item;
-        front++;        
+                
     }
 }
 
